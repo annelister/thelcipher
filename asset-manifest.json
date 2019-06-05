@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thelcipher/static/css/main.2cce8147.chunk.css",
+    "main.js": "/thelcipher/static/js/main.f18fb95e.chunk.js",
+    "main.js.map": "/thelcipher/static/js/main.f18fb95e.chunk.js.map",
+    "runtime~main.js": "/thelcipher/static/js/runtime~main.d4b0dbcd.js",
+    "runtime~main.js.map": "/thelcipher/static/js/runtime~main.d4b0dbcd.js.map",
+    "static/js/2.b41502e9.chunk.js": "/thelcipher/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/thelcipher/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/thelcipher/index.html",
+    "precache-manifest.f411d69a71e6a84c33c5ecee70536988.js": "/thelcipher/precache-manifest.f411d69a71e6a84c33c5ecee70536988.js",
+    "service-worker.js": "/thelcipher/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/thelcipher/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/thelcipher/static/media/logo.5d5d9eef.svg"
+  }
+}
