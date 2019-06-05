@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2bdbc3009147b55845f2ebfb4b54f481",
+    "revision": "31f97dec4cf5a85995bbff15f5264a4b",
     "url": "/thelcipher/index.html"
   },
   {
-    "revision": "88c6f65410e7236f7a54",
+    "revision": "145841f4b2e193e112cc",
     "url": "/thelcipher/static/css/main.8ef9212b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thelcipher/static/js/2.3da42d3d.chunk.js"
   },
   {
-    "revision": "88c6f65410e7236f7a54",
-    "url": "/thelcipher/static/js/main.db3729a8.chunk.js"
+    "revision": "145841f4b2e193e112cc",
+    "url": "/thelcipher/static/js/main.ee0cfdb9.chunk.js"
   },
   {
     "revision": "2d3de663e04ff67c85a7",
