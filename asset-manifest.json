@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/thelcipher/static/css/main.8ef9212b.chunk.css",
-    "main.js": "/thelcipher/static/js/main.ee0cfdb9.chunk.js",
-    "main.js.map": "/thelcipher/static/js/main.ee0cfdb9.chunk.js.map",
+    "main.js": "/thelcipher/static/js/main.c55d38f3.chunk.js",
+    "main.js.map": "/thelcipher/static/js/main.c55d38f3.chunk.js.map",
     "runtime~main.js": "/thelcipher/static/js/runtime~main.d4b0dbcd.js",
     "runtime~main.js.map": "/thelcipher/static/js/runtime~main.d4b0dbcd.js.map",
     "static/js/2.3da42d3d.chunk.js": "/thelcipher/static/js/2.3da42d3d.chunk.js",
     "static/js/2.3da42d3d.chunk.js.map": "/thelcipher/static/js/2.3da42d3d.chunk.js.map",
     "index.html": "/thelcipher/index.html",
-    "precache-manifest.bcbeccf7b4db2943977d8498efb46feb.js": "/thelcipher/precache-manifest.bcbeccf7b4db2943977d8498efb46feb.js",
+    "precache-manifest.1c3a64d0495c0e26bf0b0fef3476da9c.js": "/thelcipher/precache-manifest.1c3a64d0495c0e26bf0b0fef3476da9c.js",
     "service-worker.js": "/thelcipher/service-worker.js",
     "static/css/main.8ef9212b.chunk.css.map": "/thelcipher/static/css/main.8ef9212b.chunk.css.map"
   }
