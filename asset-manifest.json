@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/thelcipher/static/css/main.07dc501d.chunk.css",
-    "main.js": "/thelcipher/static/js/main.e2a1d406.chunk.js",
-    "main.js.map": "/thelcipher/static/js/main.e2a1d406.chunk.js.map",
+    "main.css": "/thelcipher/static/css/main.8ef9212b.chunk.css",
+    "main.js": "/thelcipher/static/js/main.db3729a8.chunk.js",
+    "main.js.map": "/thelcipher/static/js/main.db3729a8.chunk.js.map",
     "runtime~main.js": "/thelcipher/static/js/runtime~main.d4b0dbcd.js",
     "runtime~main.js.map": "/thelcipher/static/js/runtime~main.d4b0dbcd.js.map",
     "static/js/2.3da42d3d.chunk.js": "/thelcipher/static/js/2.3da42d3d.chunk.js",
     "static/js/2.3da42d3d.chunk.js.map": "/thelcipher/static/js/2.3da42d3d.chunk.js.map",
     "index.html": "/thelcipher/index.html",
-    "precache-manifest.2983086e0193e6b25b83e2d98b5163f2.js": "/thelcipher/precache-manifest.2983086e0193e6b25b83e2d98b5163f2.js",
+    "precache-manifest.2e3ce94c547f46eaeaf15008b6fb6e06.js": "/thelcipher/precache-manifest.2e3ce94c547f46eaeaf15008b6fb6e06.js",
     "service-worker.js": "/thelcipher/service-worker.js",
-    "static/css/main.07dc501d.chunk.css.map": "/thelcipher/static/css/main.07dc501d.chunk.css.map"
+    "static/css/main.8ef9212b.chunk.css.map": "/thelcipher/static/css/main.8ef9212b.chunk.css.map"
   }
 }
